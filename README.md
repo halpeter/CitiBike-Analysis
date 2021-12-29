@@ -3,7 +3,7 @@
 
 ## Background
 
-This project utilizes data from the Citi Bike Program from April 2021, found on their [public webpage](https://www.citibikenyc.com/system-data). This project analyzes this data and creates compelling visualizations in Tableau. These visualizations can be views [here](CitiBikeAnalysis.twbx).
+This project utilizes data from the Citi Bike Program from April 2021, found on their [public webpage](https://www.citibikenyc.com/system-data). This project analyzes this data and creates compelling visualizations in Tableau. These visualizations can be seen [here](https://public.tableau.com/views/CitiBikeAnalysis_16213905683950/CitiBikeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ## Analysis
 The analyis of this data aimed to answer the following questions:
